@@ -8,8 +8,10 @@ Users can also add new cafes to the database through a form.
 
 *Web Development with Flask
 
-    > Routing and Views: Implemented various routes to handle different functionalities in the application, such as displaying all cafes, filtering cafes, and adding new cafes.
-    > Templating with Jinja2: Used Jinja2 templating engine to dynamically render HTML pages with data from the database.
+    > Routing and Views: Implemented various routes to handle different functionalities in the application, 
+        such as displaying all cafes, filtering cafes, and adding new cafes.
+    > Templating with Jinja2: Used Jinja2 templating engine to dynamically render HTML pages with data 
+         from the database.
     > Static Files Management: Managed static files like CSS and JavaScript for styling and interactivity.
     
 *Database Management with SQLAlchemy
@@ -43,22 +45,23 @@ Users can also add new cafes to the database through a form.
     
 ****Project Structure****
 
-cafe-and-wifi-finder/
-├── templates/
-│   ├── add_cafe.html
-│   ├── header.html
-│   ├── index.html
-│   ├── joincommunity.html
-│   ├── register.html
-├── forms.py
-├── main.py
-├── models.py
-├── requirements.txt
-└── README.md
-templates/: Contains the HTML templates for the project.
-forms.py: Contains the Flask-WTF form classes.
-main.py: The main Flask application file.
-requirements.txt: A list of Python dependencies.
+    cafe-and-wifi-finder/
+    ├── templates/
+    │   ├── add_cafe.html
+    │   ├── header.html
+    │   ├── index.html
+    │   ├── joincommunity.html
+    │   ├── register.html
+    ├── forms.py
+    ├── main.py
+    ├── models.py
+    ├── requirements.txt
+    └── README.md
+    
+    templates/: Contains the HTML templates for the project.
+    forms.py: Contains the Flask-WTF form classes.
+    main.py: The main Flask application file.
+    requirements.txt: A list of Python dependencies.
 
 
 ****Key Features****
@@ -72,34 +75,48 @@ requirements.txt: A list of Python dependencies.
 ****Installation and Setup****
 
 *Clone the repository:
+
    git clone https://github.com/your-username/cafe-and-wifi-finder.git
    cd cafe-and-wifi-finder
+   
 *Create a virtual environment:
+
     python -m venv venv
+
 *Activate the virtual environment:
+
     On Windows:
         venv\Scripts\activate
     On macOS/Linux:
         source venv/bin/activate
+
 *Install the dependencies:
+
     pip install -r requirements.txt
+
 *Create the database:
+   
     from main import db, app
     with app.app_context():
         db.create_all()
+
 *Run the application:
+   
     flask run
     Open your browser and go to http://127.0.0.1:5000/.
 
 *REST API (Documentation link):
+   
     https://documenter.getpostman.com/view/33062723/2sA3e5eTdz
     
 ****Future Improvements****
+    
     > User Authentication: Implement user authentication to allow users to save their favorite cafes.
     > Enhanced Filtering: Add more filtering options, such as price range and opening hours.
     > Ratings and Reviews: Allow users to rate and review cafes.
 
 ****Conclusion****
+
 This project helped me gain practical experience in web development with Flask, database management with SQLAlchemy, form handling with Flask-WTF, and frontend development with Bootstrap. It also taught me how to structure a web application, manage dependencies, develop REST APIs, and ensure a responsive and user-friendly interface.
 
 
