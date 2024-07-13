@@ -125,5 +125,35 @@ This project helped me gain practical experience in web development with Flask, 
 with Flask-WTF, and frontend development with Bootstrap. It also taught me how to structure a web application, manage dependencies,
 develop REST APIs, and ensure a responsive and user-friendly interface.
 
-![image](https://github.com/user-attachments/assets/1f1818da-f0cc-4722-b7ad-ffdf76b7f72a)
+****Index Page****
+![image](https://github.com/user-attachments/assets/c2bb87d3-4500-4c8f-9f5b-7176b1c210e4)
+
+****Log In Page****
+![image](https://github.com/user-attachments/assets/30d4d0a1-b613-42ba-b316-4e87e047d4d0)
+
+****Sign Up Page(Join Community Page)****
+![image](https://github.com/user-attachments/assets/9e177ee1-4346-47fd-88a2-d8a11738e01c)
+
+****Add New Cafe****
+![image](https://github.com/user-attachments/assets/763ebf00-aa90-4584-a36d-28eb8d7561b0)
+
+****Filters(WIFI)****
+![image](https://github.com/user-attachments/assets/b9971960-897a-4979-b467-edb171c02c41)
+
+****Filters(SOCKETS)****
+![image](https://github.com/user-attachments/assets/8b5118f4-372c-4ade-a862-aa528794acc9)
+
+****Filters(Calls)****
+![image](https://github.com/user-attachments/assets/c85cc80e-ff4c-4638-9f6c-455608a3454e)
+
+****Filters(Toilet)****
+![image](https://github.com/user-attachments/assets/7d788371-df6a-468f-a9de-99d5a4811f8f)
+
+****Search By Location****
+![Uploading image.png…]()
+
+
+
+
+
 
