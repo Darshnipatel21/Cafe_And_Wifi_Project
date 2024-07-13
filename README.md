@@ -143,11 +143,11 @@ develop REST APIs, and ensure a responsive and user-friendly interface.
 
 ************************************************************************Filters(WIFI)************************************************************************
 
-![image](https://github.com/user-attachments/assets/b9971960-897a-4979-b467-edb171c02c41)
+![image](https://github.com/user-attachments/assets/2d64d3d4-9c70-45aa-8601-f3f8cc39eb3f)
 
 ************************************************************************Filters(SOCKETS)************************************************************************
 
-![image](https://github.com/user-attachments/assets/6cb7275a-e405-4b30-841c-f808258ffc94)
+![image](https://github.com/user-attachments/assets/d0e2e5a0-52ea-477e-abe1-36ee569604ce)
 
 ************************************************************************Filters(Calls)************************************************************************
 
