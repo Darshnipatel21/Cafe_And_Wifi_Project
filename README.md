@@ -132,6 +132,8 @@ develop REST APIs, and ensure a responsive and user-friendly interface.
 ![image](https://github.com/user-attachments/assets/30d4d0a1-b613-42ba-b316-4e87e047d4d0)
 
 ****Sign Up Page(Join Community Page)****
+![image](https://github.com/user-attachments/assets/b05bdf82-5f2d-4d54-8cd9-bd3952ae015d)
+
 ![image](https://github.com/user-attachments/assets/9e177ee1-4346-47fd-88a2-d8a11738e01c)
 
 ****Add New Cafe****
