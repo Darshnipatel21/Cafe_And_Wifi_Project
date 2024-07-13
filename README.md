@@ -125,40 +125,41 @@ This project helped me gain practical experience in web development with Flask, 
 with Flask-WTF, and frontend development with Bootstrap. It also taught me how to structure a web application, manage dependencies,
 develop REST APIs, and ensure a responsive and user-friendly interface.
 
-                        ****Index Page****
+************************************************************************Index Page************************************************************************
                         
 ![image](https://github.com/user-attachments/assets/c2bb87d3-4500-4c8f-9f5b-7176b1c210e4)
 
-                        ****Log In Page****
+************************************************************************Log In Page************************************************************************
                         
 ![image](https://github.com/user-attachments/assets/30d4d0a1-b613-42ba-b316-4e87e047d4d0)
 
-                ****Sign Up Page(Join Community Page)****
+*****************************************************************Sign Up Page(Join Community Page)**************************************************************
                 
 ![image](https://github.com/user-attachments/assets/b05bdf82-5f2d-4d54-8cd9-bd3952ae015d)
 
-                        ****Add New Cafe****
+************************************************************************Add New Cafe************************************************************************
 
 ![image](https://github.com/user-attachments/assets/ecd57528-4733-4d54-b3bf-6114985953d2)
 
-                       ****Filters(WIFI)****
+************************************************************************Filters(WIFI)************************************************************************
 
 ![image](https://github.com/user-attachments/assets/b9971960-897a-4979-b467-edb171c02c41)
 
-                      ****Filters(SOCKETS)****
+************************************************************************Filters(SOCKETS)************************************************************************
 
 ![image](https://github.com/user-attachments/assets/6cb7275a-e405-4b30-841c-f808258ffc94)
 
-                       ****Filters(Calls)****
+************************************************************************Filters(Calls)************************************************************************
 
 ![image](https://github.com/user-attachments/assets/c85cc80e-ff4c-4638-9f6c-455608a3454e)
 
-                      ****Filters(Toilet)****
+************************************************************************Filters(Toilet)************************************************************************
+                      
 ![image](https://github.com/user-attachments/assets/53a79c9c-ff77-4561-aac8-1bfa8af89f32)
 
-                     ****Search By Location****
+************************************************************************Search By Location************************************************************************
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4f669c7c-fc8c-4c7c-a235-34c50f02e5f8)
 
 
 
