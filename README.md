@@ -125,4 +125,5 @@ This project helped me gain practical experience in web development with Flask, 
 with Flask-WTF, and frontend development with Bootstrap. It also taught me how to structure a web application, manage dependencies,
 develop REST APIs, and ensure a responsive and user-friendly interface.
 
+![image](https://github.com/user-attachments/assets/1f1818da-f0cc-4722-b7ad-ffdf76b7f72a)
 
