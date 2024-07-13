@@ -7,29 +7,35 @@ Users can also add new cafes to the database through a form.
 ****Skills and Knowledge Gained****
 
 *Web Development with Flask
+
     > Routing and Views: Implemented various routes to handle different functionalities in the application, such as displaying all cafes, filtering cafes, and adding new cafes.
     > Templating with Jinja2: Used Jinja2 templating engine to dynamically render HTML pages with data from the database.
     > Static Files Management: Managed static files like CSS and JavaScript for styling and interactivity.
     
 *Database Management with SQLAlchemy
+
     > Database Design: Designed and implemented the database schema for the cafes, including fields like name, map URL, image URL, location, seats, and amenities.
     > ORM (Object-Relational Mapping): Used SQLAlchemy to interact with the SQLite database, performing CRUD operations seamlessly.
     > Data Validation: Ensured data integrity with proper field validation using SQLAlchemy and WTForms validators.
     
 *Form Handling with Flask-WTF
+
     > Form Creation: Created forms using Flask-WTF for adding new cafes, ensuring that user inputs are validated before submission.
     > Form Rendering: Rendered forms in HTML templates using Flask-WTF's render_form utility, providing a user-friendly interface for data input.
 
 *Frontend Development with Bootstrap
+
     > Responsive Design: Utilized Bootstrap to create a responsive and visually appealing user interface that works well on both desktop and mobile devices.
     > Filter UI: Designed an intuitive filter interface to allow users to filter cafes based on their amenities.
     > Sticky Header and Filter Section: Implemented sticky headers and filter sections for better user experience and accessibility.
 
 *Deployment and Configuration
+
     > Application Configuration: Configured the Flask application with necessary settings, including secret keys and database URI.
     > Virtual Environment Management: Managed project dependencies using virtual environments, ensuring a clean and isolated development setup.
 
 *REST API Development
+
     > API Endpoints: Created RESTful API endpoints for interacting with the cafes database programmatically.
     > JSON Responses: Implemented endpoints to return data in JSON format, making it easy to integrate with other services or applications.
     > CRUD Operations: Enabled create, read, update, and delete operations via the API.
